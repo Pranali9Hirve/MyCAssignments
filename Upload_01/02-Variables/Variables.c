@@ -11,10 +11,10 @@ int main(void)
     // Code
     printf("\n\n");
 
-    printf("i = %d\n", psh_i);
-    printf("f = %f\n", psh_f);
-    printf("d = %f\n", psh_d);
-    printf("c = %c\n", psh_c);
+    printf("psh_i = %d\n", psh_i);
+    printf("psh_f = %f\n", psh_f);
+    printf("psh_d = %f\n", psh_d);
+    printf("psh_c = %c\n", psh_c);
 
     printf("\n\n");
 
@@ -23,10 +23,10 @@ int main(void)
     psh_d = 30.9432;
     psh_c = 'P';
 
-    printf("i = %d\n", psh_i);
-    printf("f = %f\n", psh_f);
-    printf("d = %f\n", psh_d);
-    printf("c = %c\n", psh_c);
+    printf("psh_i = %d\n", psh_i);
+    printf("psh_f = %f\n", psh_f);
+    printf("psh_d = %f\n", psh_d);
+    printf("psh_c = %c\n", psh_c);
 
     printf("\n\n");
     return(0);
